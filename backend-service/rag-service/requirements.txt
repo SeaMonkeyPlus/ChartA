@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+sentence-transformers
+transformers
+torch
+numpy
+python-dotenv
+psutil
